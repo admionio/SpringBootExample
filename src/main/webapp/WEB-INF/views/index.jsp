@@ -9,8 +9,9 @@
 <html>
 <head>
     <title>Hello World</title>
+    <script type="text/javascript" src="./js/index.js"></script>
 </head>
-<body>
+<body onload="sayHello()">
 Current date time is: ${date}.
 </body>
 </html>
