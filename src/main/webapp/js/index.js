@@ -4,3 +4,7 @@
 function sayHello(){
     alert("Hello!");
 }
+
+$(document).ready(function(){
+    alert("I am Jquery!");
+});

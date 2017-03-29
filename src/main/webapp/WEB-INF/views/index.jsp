@@ -9,7 +9,8 @@
 <html>
 <head>
     <title>Hello World</title>
-    <script type="text/javascript" src="./js/index.js"></script>
+    <script type="text/javascript" src="/webjars/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/index.js?v=1.0.1"></script>
 </head>
 <body onload="sayHello()">
 Current date time is: ${date}.

@@ -8,6 +8,8 @@ pom details:
 5. tomcat-embed-jasper: embed tomcat contianer.
 6. springloaded: hot deploy plugin.
 7. maven-compiler-plugin: specify the compiler version.
+8. webjars: using webjars, we can manage the javascript plugin with maven
+9. webjars-locator: with this plugin, we have no need to specify the version in javascript src url.
 
 files:
 1. build.cmd: provide for windows version build script to package the project.

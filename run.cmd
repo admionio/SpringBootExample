@@ -1,1 +1,1 @@
-mvn spring-boot:run --settings settings.xml
+mvn clean package spring-boot:run --settings settings.xml
